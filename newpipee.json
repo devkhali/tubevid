@@ -2,8 +2,8 @@
   "control": {
    
 
-     "Show": true,
-    "showinsc": true
+     "Show": false,
+    "showinsc": false
      
  
   }
