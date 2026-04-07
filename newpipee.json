@@ -1,11 +1,13 @@
 {
   "control": {
    
-
-     "Showplayer": true,
-    "showtrend": false,
+    "Showplayer": true,
+    "showsubscibe": true,
+    "showtrend": true,
     "showsearch": true,
-    "showsubscibe": false
+    "showadmob": true,
+    "showhuawei": true
+ 
      
  
   }
