@@ -2,8 +2,8 @@
   "control": {
     "Showplayer": true,
     "showsubscibe": true,
-    "showtrend": false,
-    "showsearch": false,
+    "showtrend": true,
+    "showsearch": true,
     "showadmob": true,
     "showhuawei": false,
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
