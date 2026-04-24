@@ -1,8 +1,8 @@
 {
   "control": {
     "Showplayer": true,
-    "showsubscibe": true,
-    "showtrend": true,
+    "showsubscibe": false,
+    "showtrend": false,
     "showsearch": true,
     "showadmob": false,
     "showhuawei": true,
