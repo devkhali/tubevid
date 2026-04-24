@@ -2,7 +2,7 @@
   "control": {
     "Showplayer": true,
     "showsubscibe": false,
-    "showtrend": false,
+    "showtrend": true,
     "showsearch": true,
     "showadmob": false,
     "showhuawei": true,
